@@ -1,0 +1,29 @@
+[    3794ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932126582:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)

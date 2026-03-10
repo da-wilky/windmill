@@ -1,0 +1,297 @@
+[    1510ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  210724ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  281774ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  281775ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  281866ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[  281867ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  281867ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[  281881ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[  281881ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  281883ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[  281904ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  281907ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  610425ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  610425ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  610426ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  610499ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[  610499ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[  610499ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  610567ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[  610567ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[  610568ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  610595ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  610602ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  657360ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[  657360ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[  657460ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  657460ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[  657470ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  657470ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  658061ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  659306ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  659421ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  659507ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  659715ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  659912ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  660035ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  661256ms] [WARNING] Unable to read file '/728o6uhmoo.yaml' (Error: Unable to resolve nonexistent file '/728o6uhmoo.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  717217ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  725269ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  727874ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  727949ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  728091ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  729980ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  730163ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  730335ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  732432ms] [WARNING] Unable to read file '/qw9r0gf1r0i.yaml' (Error: Unable to resolve nonexistent file '/qw9r0gf1r0i.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1196826ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1196826ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1197934ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1197934ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1198305ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5179/api/uptodate:0
+[ 1198306ms] [WARNING] Could not fetch latest version ApiError: Internal Server Error
+    at catchErrorCodes (http://localhost:5179/src/lib/gen/core/request.ts:231:9)
+    at http://localhost:5179/src/lib/gen/core/request.ts:274:5 @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1198415ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1198418ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[ 1198419ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[ 1198421ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[ 1198423ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5179/api/uptodate:0
+[ 1198429ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[ 1198430ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1198439ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1198450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1210427ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1210427ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1210694ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1210694ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1220668ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1220669ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1220950ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1220950ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1226629ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1226629ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1226939ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1226940ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1236261ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1236261ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1236414ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1236414ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1236697ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932116648:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)
+[ 1237632ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1237632ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1237726ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1237726ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1239919ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1239920ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1240019ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1240019ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1243614ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1243615ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1244001ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1244002ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1246061ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1246063ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=dde25783-a974-4c09-9eea-d0652985da23:0
+[ 1246273ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1246273ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1992604ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932126582:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)
+[ 1992667ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5179/api/uptodate:0
+[ 1992669ms] [WARNING] Could not fetch latest version ApiError: Internal Server Error
+    at catchErrorCodes (http://localhost:5179/src/lib/gen/core/request.ts:231:9)
+    at http://localhost:5179/src/lib/gen/core/request.ts:274:5 @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2575764ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932126582:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)
+[ 2575750ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5179/api/uptodate:0
+[ 2575751ms] [WARNING] Could not fetch latest version ApiError: Internal Server Error
+    at catchErrorCodes (http://localhost:5179/src/lib/gen/core/request.ts:231:9)
+    at http://localhost:5179/src/lib/gen/core/request.ts:274:5 @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 3398017ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932126582:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)
+[ 3429587ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932126582:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)
+[ 4175266ms] Svelte error: state_unsafe_mutation
+Updating state inside `$derived(...)`, `$inspect(...)` or a template expression is forbidden. If the value should not be reactive, declare it without `$state`
+https://svelte.dev/e/state_unsafe_mutation
+
+	in <unknown>
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at state_unsafe_mutation (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:497:33)
+    at Module.set (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2407:230)
+    at set _runtimeCollapsedIds (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:23:5)
+    at GroupEditor.initRuntimeCollapsed (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:36:29)
+    at GroupEditor.getCollapsedGroups (http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1771932107319:66:39)
+    at http://localhost:5179/src/lib/components/graph/FlowGraphV2.svelte?t=1771932126582:733:60
+    at update_reaction (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3721:16)
+    at execute_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2296:12)
+    at update_derived (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:2315:14)
+    at Module.get (http://localhost:5179/node_modules/.vite/deps/events-B_Dxim5Q.js?v=3d20f207:3922:28)

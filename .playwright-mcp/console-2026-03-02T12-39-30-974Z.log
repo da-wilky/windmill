@@ -1,0 +1,1350 @@
+[-8599690ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8599657ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8599651ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8599647ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8585271ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8472187ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8472185ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8470508ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8470447ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8470436ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8470429ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8468339ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8468338ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8468297ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 11 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8468257ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 29 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8291693ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:3207
+[-8291693ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:1600:24)
+    at async Module.start (http://localhost:5176/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=25564261:363:3) @ http://localhost:5176/@fs/Users/guilhem/Devel/windmill/wt-agent-3/frontend/.svelte-kit/generated/client/app.js:178
+[  358771ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  358772ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  359092ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  359104ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  360388ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=a2369910-0297-454b-b867-37c1367d5501:0
+[  360388ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=a2369910-0297-454b-b867-37c1367d5501:0
+[  360557ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  360557ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  360603ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  360603ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373718ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373727ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373739ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373743ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373775ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373864ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  373918ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  373920ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  376586ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  376592ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  376598ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  376600ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  376822ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  376874ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  376921ms] [WARNING] [SqlTypeService] No Monaco model found for URI: file:///u/admin/agent_7_test_move/g.ts @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  416600ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=a2369910-0297-454b-b867-37c1367d5501:0
+[  416600ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=a2369910-0297-454b-b867-37c1367d5501:0
+[  417443ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  417444ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  420187ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  421022ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=a2369910-0297-454b-b867-37c1367d5501:0
+[  421024ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=a2369910-0297-454b-b867-37c1367d5501:0
+[  421118ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  421118ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  457830ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  457830ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458009ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458327ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458347ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458836ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=5d92e281-a5ce-40fc-987b-64a9bbc9156b:0
+[  458836ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=5d92e281-a5ce-40fc-987b-64a9bbc9156b:0
+[  458954ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458954ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458980ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  458980ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  462326ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  462337ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  462343ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  462346ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  462399ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  462446ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  462466ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  462604ms] [WARNING] [SqlTypeService] No Monaco model found for URI: file:///u/admin/agent_7_test_move/g.ts @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  464377ms] [WARNING] %c[svelte] ownership_invalid_mutation
+%cMutating unbound props (`flowStore`, at src/​lib/​components/​FlowBuilder.svelte:546:4) is strongly discouraged. Consider using `bind:flowStore={...}` in src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte (or using a callback) instead
+https://svelte.dev/e/ownership_invalid_mutation font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  465701ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  465706ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  465712ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  465713ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  465723ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  465764ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  468759ms] [WARNING] Use $state.raw for nodes to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  468760ms] [WARNING] Use $state.raw for edges to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  471443ms] [WARNING] Use $state.raw for nodes to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  471444ms] [WARNING] Use $state.raw for edges to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  475497ms] [WARNING] Use $state.raw for nodes to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  475497ms] [WARNING] Use $state.raw for edges to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  481011ms] [WARNING] Use $state.raw for nodes to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  481012ms] [WARNING] Use $state.raw for edges to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  506610ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=5d92e281-a5ce-40fc-987b-64a9bbc9156b:0
+[  506610ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=5d92e281-a5ce-40fc-987b-64a9bbc9156b:0
+[  507050ms] ReferenceError: X is not defined
+
+	in <unknown>
+	in ViewportPortal.svelte
+	in SelectionBoundingBox.svelte
+	in Wrapper.svelte
+	in SvelteFlow.svelte
+	in SvelteFlowProvider.svelte
+	in FlowGraphV2.svelte
+	in FlowModuleSchemaMap.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in FlowEditor.svelte
+	in FlowBuilder.svelte
+	in +page.svelte
+	in Pane.svelte
+	in Splitpanes.svelte
+	in AiChatLayout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in +layout.svelte
+	in root.svelte
+
+    at $.add_svelte_meta.componentTag (http://localhost:5177/src/lib/components/graph/SelectionBoundingBox.svelte?t=1772455676135:262:35)
+    at Module.add_svelte_meta (http://localhost:5177/node_modules/.vite/deps/events-BQhEbvtB.js?v=9236a7f9:813:10)
+    at consequent_2 (http://localhost:5177/src/lib/components/graph/SelectionBoundingBox.svelte?t=1772455676135:262:13)
+    at http://localhost:5177/node_modules/.vite/deps/shared-UJZYdlH8.js?v=9236a7f9:589:61
+    at update_reaction (http://localhost:5177/node_modules/.vite/deps/events-BQhEbvtB.js?v=9236a7f9:3299:16)
+    at update_effect (http://localhost:5177/node_modules/.vite/deps/events-BQhEbvtB.js?v=9236a7f9:3394:20)
+    at create_effect (http://localhost:5177/node_modules/.vite/deps/events-BQhEbvtB.js?v=9236a7f9:3666:3)
+    at branch (http://localhost:5177/node_modules/.vite/deps/events-BQhEbvtB.js?v=9236a7f9:3848:9)
+    at update_branch (http://localhost:5177/node_modules/.vite/deps/shared-UJZYdlH8.js?v=9236a7f9:589:48)
+    at set_branch (http://localhost:5177/node_modules/.vite/deps/shared-UJZYdlH8.js?v=9236a7f9:552:3)
+[  506898ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  506898ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  509450ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=5d92e281-a5ce-40fc-987b-64a9bbc9156b:0
+[  509451ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=5d92e281-a5ce-40fc-987b-64a9bbc9156b:0
+[  509901ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  509901ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  520188ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  520189ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  520340ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  520525ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  520537ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  521082ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=eef461ba-eb69-43de-98dd-ccd69e296eb2:0
+[  521082ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=eef461ba-eb69-43de-98dd-ccd69e296eb2:0
+[  521288ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  521288ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  521350ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  521350ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  533583ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  533590ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  533597ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  533599ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  533671ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  534993ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  535035ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  536301ms] [WARNING] Use $state.raw for nodes to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  536302ms] [WARNING] Use $state.raw for edges to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  539728ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  539734ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  539740ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  539742ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  539750ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  539769ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  540852ms] [WARNING] Use $state.raw for nodes to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  540852ms] [WARNING] Use $state.raw for edges to prevent performance issues. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  550926ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  553404ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  553410ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  570881ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  570901ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  570902ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  570922ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  570942ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  571603ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  571606ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  575583ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  575586ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  575587ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  575605ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  575616ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  577821ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  577826ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  579722ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  579831ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  579858ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  580890ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  580896ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  580949ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  582162ms] [WARNING] %c[svelte] ownership_invalid_mutation
+%cMutating unbound props (`flowStore`, at src/​lib/​components/​FlowBuilder.svelte:546:4) is strongly discouraged. Consider using `bind:flowStore={...}` in src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte (or using a callback) instead
+https://svelte.dev/e/ownership_invalid_mutation font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  582283ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  583713ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  583735ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  584204ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  584589ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  585314ms] [WARNING] %c[svelte] ownership_invalid_mutation
+%cMutating unbound props (`flowStore`, at src/​lib/​components/​FlowBuilder.svelte:546:4) is strongly discouraged. Consider using `bind:flowStore={...}` in src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte (or using a callback) instead
+https://svelte.dev/e/ownership_invalid_mutation font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  586895ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  586897ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  586899ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  586914ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  586925ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  663853ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=eef461ba-eb69-43de-98dd-ccd69e296eb2:0
+[  663853ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=eef461ba-eb69-43de-98dd-ccd69e296eb2:0
+[  664025ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  664025ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  694022ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=eef461ba-eb69-43de-98dd-ccd69e296eb2:0
+[  694022ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=eef461ba-eb69-43de-98dd-ccd69e296eb2:0
+[  694135ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  694135ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  714973ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  714974ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  714974ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734393ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734411ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734413ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734443ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734457ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734668ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=dab994cb-05bb-4553-a574-08261cf07314:0
+[  734668ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=dab994cb-05bb-4553-a574-08261cf07314:0
+[  734766ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734766ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  734778ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  734778ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  777420ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=dab994cb-05bb-4553-a574-08261cf07314:0
+[  777420ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=dab994cb-05bb-4553-a574-08261cf07314:0
+[  777602ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  777602ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  796976ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  796977ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  796978ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  801338ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807318ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807334ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807336ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807357ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807375ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807507ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=ca4417b2-ec3e-4adf-951c-74e65ca1ba6f:0
+[  807507ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=ca4417b2-ec3e-4adf-951c-74e65ca1ba6f:0
+[  807568ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807568ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807601ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  807601ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[  813328ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  814592ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  814619ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  815476ms] [WARNING] %c[svelte] ownership_invalid_mutation
+%cMutating unbound props (`flowStore`, at src/​lib/​components/​FlowBuilder.svelte:546:4) is strongly discouraged. Consider using `bind:flowStore={...}` in src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte (or using a callback) instead
+https://svelte.dev/e/ownership_invalid_mutation font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[  815553ms] [ERROR] Sending document notification textDocument/didClose failed. @ http://localhost:5177/node_modules/.vite/deps/standaloneServices-BBJdjw4Y.js?v=9236a7f9:88955
+[  815584ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=9236a7f9:3076
+[  867441ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1008318ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=ca4417b2-ec3e-4adf-951c-74e65ca1ba6f:0
+[ 1008318ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=ca4417b2-ec3e-4adf-951c-74e65ca1ba6f:0
+[ 1008661ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1008661ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1047889ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1047890ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1047890ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1338060ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1338075ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1338091ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1338095ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1338124ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1338171ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1342184ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1342192ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1342197ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1342199ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1342209ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1342239ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344191ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344235ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344240ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344248ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344250ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344655ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=9a04a5f3-e8d2-42ac-8339-07390b2d98c2:0
+[ 1344655ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=9a04a5f3-e8d2-42ac-8339-07390b2d98c2:0
+[ 1344728ms] [ERROR] [SqlTypeService] Failed to get TypeScript worker client: TypeScript not registered! @ http://localhost:5177/src/lib/components/sqlTypeService.ts:15
+[ 1344844ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344844ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1344911ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1344911ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1348288ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1348304ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1348306ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1348347ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1350950ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1350951ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1350954ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1350983ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1351045ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1354973ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1354974ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1354975ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1354995ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1355070ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371181ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371183ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371184ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371222ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371726ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371728ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371730ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371761ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1371827ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1379359ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1379368ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1381131ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1381135ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1381237ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1381452ms] [WARNING] [SqlTypeService] No Monaco model found for URI: file:///9ynshvob4b.ts @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1381955ms] [WARNING] Error: command 'deno.cache' already exists
+    at ExtHostCommands$1.registerCommand (http://localhost:5177/node_modules/.vite/deps/extension.api-DTVMkWbA.js?v=9236a7f9:2001:54)
+    at Proxy.registerCommand (http://localhost:5177/node_modules/.vite/deps/extension.api-DTVMkWbA.js?v=9236a7f9:25715:28)
+    at webSocket.onopen (http://localhost:5177/src/lib/components/Editor.svelte?t=1772454329028:990:34) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1383879ms] [WARNING] %c[svelte] ownership_invalid_mutation
+%cMutating unbound props (`flowStore`, at src/​lib/​components/​FlowBuilder.svelte:546:4) is strongly discouraged. Consider using `bind:flowStore={...}` in src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte (or using a callback) instead
+https://svelte.dev/e/ownership_invalid_mutation font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1404509ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1428123ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=9a04a5f3-e8d2-42ac-8339-07390b2d98c2:0
+[ 1428123ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=9a04a5f3-e8d2-42ac-8339-07390b2d98c2:0
+[ 1430357ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1430357ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1560463ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=9a04a5f3-e8d2-42ac-8339-07390b2d98c2:0
+[ 1560463ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=9a04a5f3-e8d2-42ac-8339-07390b2d98c2:0
+[ 1564875ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1564875ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1595701ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1595702ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754164ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754182ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754185ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754228ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754248ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754640ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=f5c71fca-f1c7-4273-be09-c69aa34ef1a4:0
+[ 1754640ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=f5c71fca-f1c7-4273-be09-c69aa34ef1a4:0
+[ 1754780ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754780ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1754806ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1754806ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1759227ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1759228ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1759229ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1759240ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1759250ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1791289ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1791305ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1791307ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1791334ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1791345ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1795995ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1795997ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1795999ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1796019ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1796029ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1814483ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1838915ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1838930ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1838946ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1838952ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1842497ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1842502ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1842503ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1842504ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1842542ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1842554ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1916111ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=f5c71fca-f1c7-4273-be09-c69aa34ef1a4:0
+[ 1916111ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=f5c71fca-f1c7-4273-be09-c69aa34ef1a4:0
+[ 1916295ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1916295ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1916311ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1916313ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1916313ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1916349ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1956512ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1956513ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1956816ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1956835ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1957204ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=217530d6-91f3-4ffb-b094-24150764811e:0
+[ 1957204ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=217530d6-91f3-4ffb-b094-24150764811e:0
+[ 1957259ms] [ERROR] [SqlTypeService] Failed to get TypeScript worker client: TypeScript not registered! @ http://localhost:5177/src/lib/components/sqlTypeService.ts:15
+[ 1957299ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1957299ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1957435ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207
+[ 1957435ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 2017121ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=9236a7f9:3207

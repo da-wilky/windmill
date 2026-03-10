@@ -1,0 +1,847 @@
+[    1555ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[    1555ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[    1555ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[    1668ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[    1669ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[    1669ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[    1728ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[    1728ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[    1730ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[    1735ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[    1743ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[   65176ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[   65177ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[   65178ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[   65371ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[   65371ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[   65412ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[   65454ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[   65455ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[   65469ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[   65522ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[   65637ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1166817ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1166837ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1166841ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1167033ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1167422ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1167422ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1167540ms] [WARNING] Unable to read file '/x4viaiqdsk.js' (Error: Unable to resolve nonexistent file '/x4viaiqdsk.js') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1167634ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1167634ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1167658ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1167658ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1227254ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1411973ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1411973ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1412248ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1412248ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1496933ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1496933ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1497242ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1497242ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1508908ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1508908ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1509181ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1509182ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1520347ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1520347ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1520558ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1520558ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1525500ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1525500ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1525829ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1525830ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1529882ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1529882ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1530202ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1530202ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1535132ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1535132ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1535416ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1535416ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1540699ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1540699ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1540978ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1540979ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1559147ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1559147ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1559510ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1559511ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1563649ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1567776ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1567776ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1568097ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1568098ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1576452ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1576452ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1576783ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1576783ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1589645ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1589645ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1590029ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1590029ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1598746ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1598746ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1599035ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1599035ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1609484ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1632009ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1632009ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1632333ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1632333ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1662861ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1662862ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1663173ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1663173ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1674668ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1674668ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=765b3fad-14ca-4b16-86c2-c3bfbdb46747:0
+[ 1674996ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1674996ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1692973ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1704948ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1704978ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1705335ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1707181ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5179/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=3d20f207:3076
+[ 1708722ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5179/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=3d20f207:3076
+[ 1715948ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1715949ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1715950ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1715951ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1716076ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1716186ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[ 1716186ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[ 1716645ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1716648ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[ 1716650ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[ 1716657ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1716665ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ 1721412ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 1721412ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 1721600ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1721600ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 1721648ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1721649ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1731612ms] [WARNING] Unable to read file '/080gs385pu.yaml' (Error: Unable to resolve nonexistent file '/080gs385pu.yaml') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1781279ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1792705ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1804734ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1811683ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1828655ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1840057ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1847100ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1853418ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1853429ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1855983ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1941615ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 1941615ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 1941909ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 1941909ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2024500ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2024500ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2025228ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2025228ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2041865ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2041865ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2041973ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2041973ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2121791ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2121791ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2122242ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2122242ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2135268ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2135268ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2135554ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2135554ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2148412ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2148412ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2148760ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2148760ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2172374ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2172374ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2172769ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2172769ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2176588ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2176588ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2176799ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2176800ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2201514ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2201515ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2201828ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2201828ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2213866ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2213867ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2214091ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2214092ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2217780ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2217780ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2218056ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2218056ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2225266ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2225268ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2225504ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2225504ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2242679ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2279829ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2279829ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2280178ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2280179ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2313151ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2313152ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2313415ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2313415ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2330861ms] [WARNING] %c[svelte] assignment_value_stale
+%cAssignment to `testJob` property (src/​​lib/​​components/​​ModuleTest.svelte:136:46) will evaluate to the right-hand side, not the value of `testJob` following the assignment. This may result in unexpected behaviour.
+https://svelte.dev/e/assignment_value_stale font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2331056ms] [WARNING] %c[svelte] assignment_value_stale
+%cAssignment to `testJob` property (src/​​lib/​​components/​​ModuleTest.svelte:136:46) will evaluate to the right-hand side, not the value of `testJob` following the assignment. This may result in unexpected behaviour.
+https://svelte.dev/e/assignment_value_stale font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334674ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334776ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334796ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334819ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334824ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334863ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334871ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2334957ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2335491ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2346673ms] [WARNING] %c[svelte] assignment_value_stale
+%cAssignment to `testJob` property (src/​​lib/​​components/​​ModuleTest.svelte:136:46) will evaluate to the right-hand side, not the value of `testJob` following the assignment. This may result in unexpected behaviour.
+https://svelte.dev/e/assignment_value_stale font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2346701ms] [WARNING] %c[svelte] assignment_value_stale
+%cAssignment to `testJob` property (src/​​lib/​​components/​​ModuleTest.svelte:136:46) will evaluate to the right-hand side, not the value of `testJob` following the assignment. This may result in unexpected behaviour.
+https://svelte.dev/e/assignment_value_stale font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2347251ms] [WARNING] %c[svelte] assignment_value_stale
+%cAssignment to `testJob` property (src/​​lib/​​components/​​ModuleTest.svelte:136:46) will evaluate to the right-hand side, not the value of `testJob` following the assignment. This may result in unexpected behaviour.
+https://svelte.dev/e/assignment_value_stale font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2350058ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2350070ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2350166ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2350174ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2350263ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2352677ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5179/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=3d20f207:3076
+[ 2354244ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5179/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=3d20f207:3076
+[ 2385052ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2385052ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2385320ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2385320ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2396963ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2396963ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2397288ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2397288ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2407223ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2407223ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2407452ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2407452ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2439317ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2439318ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2439601ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2439601ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2442088ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2442088ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2442339ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2442339ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2470543ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2470543ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2470775ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2470775ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2473817ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2473818ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2474091ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2474091ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2489815ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2489815ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2490122ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2490122ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2510857ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2510857ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2511096ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2511096ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2519403ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2519403ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2519700ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2519700ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2532586ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2532586ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2532845ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2532845ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2544793ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2544793ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2545019ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2545019ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2557192ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2557212ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2557233ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2557239ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2557288ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2557294ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2560411ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2560424ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2560426ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2560429ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2560458ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2560462ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2563697ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2569567ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2569567ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2569762ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2569762ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2598116ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2598116ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2598412ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2598412ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2615290ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2615292ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2615702ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2615702ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2630275ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2630275ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2630510ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2630511ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2643086ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2643087ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2643345ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2643346ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2660889ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2660889ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2661261ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2661261ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2719344ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2746311ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2746311ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2746765ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2746766ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2780939ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2780940ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2781365ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2781365ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2786798ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2786798ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2787126ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2787127ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2789753ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2789753ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2790156ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2790157ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2835977ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2835977ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2836482ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2836482ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2851088ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2851088ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2851430ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2851430ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2861073ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2861073ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2861279ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2861279ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2896423ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2896423ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2896749ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2896749ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2912122ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2912122ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=ab0dde28-6b74-411d-b201-65d340b6b91d:0
+[ 2912444ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2912444ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[ 2945134ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2945151ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2945171ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2945175ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2945206ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2945211ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2945394ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946356ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 13 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946374ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946384ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946387ms] [WARNING] %c[svelte] binding_property_non_reactive
+%c`bind:value={args[argName]}` (src/lib/components/SchemaForm.svelte:269:9) is binding to a non-reactive property
+https://svelte.dev/e/binding_property_non_reactive font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946488ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946522ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ 2946622ms] [WARNING] Unable to read file '/gitibcw9g9i.js' (Error: Unable to resolve nonexistent file '/gitibcw9g9i.js') @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207

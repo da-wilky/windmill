@@ -1,0 +1,14 @@
+[    3913ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  599658ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  609405ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207

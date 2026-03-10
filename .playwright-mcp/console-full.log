@@ -1,0 +1,210 @@
+Total messages: 180 (Errors: 11, Warnings: 20)
+Returning 138 messages for level "info"
+
+[LOG] cancelling request: {reason: saveAndClear, abortController: undefined} @ http://localhost:5179/src/lib/components/copilot/chat/AIChatManager.svelte.ts:1036
+[LOG] loadFlow @ http://localhost:5179/src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte?t=1772013933760:100
+[LOG] Welcome back admin to testing @ http://localhost:5179/src/routes/(root)/+layout.svelte:68
+[WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[LOG] RawScript module a without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module a @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module az without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module az @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module b without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module b @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module u without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module u @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module x without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module x @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module ay without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module ay @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module aw without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module aw @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module av without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module av @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module k without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module k @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module w without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module w @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module q without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module q @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module ak without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module ak @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module af without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module af @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module ah without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module ah @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module al without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module al @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] RawScript module aj without assets field, parsing @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:151
+[LOG] Parsing assets for RawScript module aj @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[LOG] uri file:///u/admin/send_message_to_overusing_customers/x.ts @ http://localhost:5179/src/lib/components/Editor.svelte:201
+[WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] updating db schema completions undefined typescript @ http://localhost:5179/src/lib/components/Editor.svelte:1876
+[WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] Parsing assets for RawScript module x @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] path file:///u/admin/send_message_to_overusing_customers/x.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1296
+[LOG] Loading Monaco's language client @ http://localhost:5179/src/lib/components/Editor.svelte:1299
+[LOG] Initializing vscode-api from editor @ http://localhost:5179/src/lib/components/vscode.ts:55
+[LOG] Waiting for initialization of monaco services @ http://localhost:5179/src/lib/components/vscode.ts:200
+[LOG] Waiting for initialization of monaco services @ http://localhost:5179/src/lib/components/vscode.ts:200
+[LOG] Waiting for initialization of monaco services @ http://localhost:5179/src/lib/components/vscode.ts:200
+[LOG] Waiting for initialization of monaco services @ http://localhost:5179/src/lib/components/vscode.ts:200
+[LOG] done loading Monaco and vscode @ http://localhost:5179/src/lib/components/Editor.svelte:1301
+[LOG] updating db schema completions undefined typescript @ http://localhost:5179/src/lib/components/Editor.svelte:1876
+[LOG] [Editor.isTsWorkerInitialized] Waiting for TS Worker... @ http://localhost:5179/src/lib/components/Editor.svelte:1934
+[ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=8cecb023-e886-47fb-81b0-695d90b17341:0
+[WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5179/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5179&vscodeWebWorkerExtHostId=8cecb023-e886-47fb-81b0-695d90b17341:0
+[LOG] SETUP TYPE ACQUISITION {root: http://localhost:5179/api/scripts_u/tokened_raw/testing/taOT5kYHGZsJ8fAER1BxGfbQnQNCZmTS, path: u/admin/send_message_to_overusing_customers/x} @ http://localhost:5179/src/lib/components/Editor.svelte:1661
+[LOG] dependencies to fetch for type assistant:  [bun-types] @ http://localhost:5179/src/lib/ata/index.ts:92
+[ERROR] [SqlTypeService] Failed to get TypeScript worker client: TypeScript not registered! @ http://localhost:5179/src/lib/components/sqlTypeService.ts:15
+[LOG] getWorker: moduleId: workerMain.js label: typescript @ http://localhost:5179/src/lib/components/vscode.ts:10
+[LOG] getWorker: moduleId: workerMain.js label: javascript @ http://localhost:5179/src/lib/components/vscode.ts:10
+[LOG] resLimit https://data.jsdelivr.com/v1/package/resolve/npm/bun-types@latest 23 @ http://localhost:5179/src/lib/ata/apis.ts:116
+[LOG] resLimit https://data.jsdelivr.com/v1/package/npm/bun-types@1.3.9/flat 59594 @ http://localhost:5179/src/lib/ata/apis.ts:116
+[LOG] ATA start @ http://localhost:5179/src/lib/components/Editor.svelte:1683
+[LOG] adding library to runtime file:///node_modules/bun-types/package.json @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/jsc.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/bun.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/bundle.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/deprecated.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/devserver.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/bun.ns.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/extensions.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/fetch.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/ffi.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/globals.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/index.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/jsx.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/security.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/overrides.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/s3.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/redis.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[WARNING] The next HMR update will cause the page to reload @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:1600:24)
+    at async Module.start (http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:363:3) @ http://localhost:5179/@fs/Users/guilhem/Devel/windmill/wt-agent-6/frontend/.svelte-kit/generated/client/app.js:176
+[LOG] adding library to runtime file:///node_modules/bun-types/sql.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/sqlite.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/test.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/html-rewriter.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/serve.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/shell.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/test-globals.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/vendor/expect-type/branding.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/vendor/expect-type/index.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/vendor/expect-type/overloads.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/vendor/expect-type/messages.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/vendor/expect-type/utils.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] adding library to runtime file:///node_modules/bun-types/wasm.d.ts @ http://localhost:5179/src/lib/components/Editor.svelte:1618
+[LOG] ATA done @ http://localhost:5179/src/lib/components/Editor.svelte:1687
+[LOG] getWorker: moduleId: workerMain.js label: editorWorkerService @ http://localhost:5179/src/lib/components/vscode.ts:10
+[WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] [SqlTypePlugin] Worker module loaded @ http://localhost:5179/src/lib/monaco_workers/sqlTypePlugin.worker.js?worker_file&type=module:789
+[LOG] [Editor.isTsWorkerInitialized] TS Worker initialized successfully @ http://localhost:5179/src/lib/components/Editor.svelte:1936
+[LOG] [GroupEditor] handleNodeMoved {movedId: x, sourceId: u, targetId: x} @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:274
+[LOG] [GroupEditor] currentGroup: undefined module_ids: undefined @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:279
+[LOG] [GroupEditor] addInsertedNode {newNodeId: x, sourceId: u, targetId: x} @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:248
+[WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] %c[snapshot] color: grey [GroupEditor] checking group note-i9jb64sdv59uqfxzjhroi module_ids: [a, b, u] srcIn: true tgtIn: false @ http://localhost:5179/node_modules/.vite/deps/client-D9ElqHrt.js?v=3d20f207:4398
+[LOG] [GroupEditor] checking group note-i9jb64sdv59uqfxzjhroi module_ids: Proxy(Object) srcIn: true tgtIn: false @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:258
+[LOG] [GroupEditor] NOT added to any group @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:269
+[LOG] Parsing assets for RawScript module x @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] [GroupEditor] handleNodeMoved {movedId: x, sourceId: b, targetId: u} @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:274
+[LOG] [GroupEditor] currentGroup: undefined module_ids: undefined @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:279
+[LOG] [GroupEditor] addInsertedNode {newNodeId: x, sourceId: b, targetId: u} @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:248
+[WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] %c[snapshot] color: grey [GroupEditor] checking group note-i9jb64sdv59uqfxzjhroi module_ids: [a, b, u] srcIn: true tgtIn: true @ http://localhost:5179/node_modules/.vite/deps/client-D9ElqHrt.js?v=3d20f207:4398
+[LOG] [GroupEditor] checking group note-i9jb64sdv59uqfxzjhroi module_ids: Proxy(Object) srcIn: true tgtIn: true @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:258
+[LOG] [GroupEditor] ADDING to group note-i9jb64sdv59uqfxzjhroi @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:261
+[LOG] Parsing assets for RawScript module x @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123
+[WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] [GroupEditor] handleNodeMoved {movedId: x, sourceId: u, targetId: f} @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:274
+[WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[LOG] %c[snapshot] color: grey [GroupEditor] currentGroup: note-i9jb64sdv59uqfxzjhroi module_ids: [a, b, u, x] @ http://localhost:5179/node_modules/.vite/deps/client-D9ElqHrt.js?v=3d20f207:4398
+[LOG] [GroupEditor] currentGroup: note-i9jb64sdv59uqfxzjhroi module_ids: Proxy(Object) @ http://localhost:5179/src/lib/components/graph/groupEditor.svelte.ts?t=1772013933760:279
+[LOG] Parsing assets for RawScript module x @ http://localhost:5179/src/lib/components/flows/FlowAssetsHandler.svelte:123

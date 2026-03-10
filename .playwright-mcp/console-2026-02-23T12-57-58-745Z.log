@@ -1,0 +1,6 @@
+[    2375ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5179/api/uptodate:0
+[    2380ms] [WARNING] Could not fetch latest version ApiError: Internal Server Error
+    at catchErrorCodes (http://localhost:5179/src/lib/gen/core/request.ts?t=1771846037765:231:9)
+    at http://localhost:5179/src/lib/gen/core/request.ts?t=1771846037765:274:5 @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[    2417ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[    2439ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5179/api/uptodate:0

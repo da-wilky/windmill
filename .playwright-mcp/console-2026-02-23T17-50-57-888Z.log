@@ -1,0 +1,75 @@
+[  -32732ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[-1072839ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5181/api/uptodate:0
+[  -32732ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[-1072700ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5181/api/uptodate:0
+[  -32650ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[-1072838ms] [WARNING] Could not fetch latest version ApiError: Internal Server Error
+    at catchErrorCodes (http://localhost:5181/src/lib/gen/core/request.ts:231:9)
+    at http://localhost:5181/src/lib/gen/core/request.ts:274:5 @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  -32524ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ -715416ms] [WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  -32518ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[ -710609ms] [WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  -32517ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[ -694954ms] [WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  -32494ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ -685372ms] [WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  -32487ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[ -684285ms] [WARNING] %c[svelte] console_log_state
+%cYour `console.log` contained `$state` proxies. Consider using `$inspect(...)` or `$state.snapshot(...)` instead
+https://svelte.dev/e/console_log_state font-weight: bold font-weight: normal @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  -32802ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  -32801ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  -32801ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[   52329ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/settings/critical_alerts?page=1&page_size=1000&acknowledged=false:0
+[   52333ms] [ERROR] Error fetching critical alerts TypeError: Failed to fetch
+    at window.fetch (http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/fetcher.js?v=4426c6f7:66:10)
+    at sendRequest (http://localhost:5181/src/lib/gen/core/request.ts:145:15)
+    at http://localhost:5181/src/lib/gen/core/request.ts:261:26 @ http://localhost:5181/src/lib/components/sidebar/CriticalAlertModal.svelte?t=1771867959552:187
+[   67322ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/settings/critical_alerts?page=1&page_size=1000&acknowledged=false:0
+[   67322ms] [ERROR] Error fetching critical alerts TypeError: Failed to fetch
+    at window.fetch (http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/fetcher.js?v=4426c6f7:66:10)
+    at sendRequest (http://localhost:5181/src/lib/gen/core/request.ts:145:15)
+    at http://localhost:5181/src/lib/gen/core/request.ts:261:26 @ http://localhost:5181/src/lib/components/sidebar/CriticalAlertModal.svelte?t=1771867959552:187
+[   82321ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/settings/critical_alerts?page=1&page_size=1000&acknowledged=false:0
+[   82321ms] [ERROR] Error fetching critical alerts TypeError: Failed to fetch
+    at window.fetch (http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/fetcher.js?v=4426c6f7:66:10)
+    at sendRequest (http://localhost:5181/src/lib/gen/core/request.ts:145:15)
+    at http://localhost:5181/src/lib/gen/core/request.ts:261:26 @ http://localhost:5181/src/lib/components/sidebar/CriticalAlertModal.svelte?t=1771867959552:187
+[   97323ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/settings/critical_alerts?page=1&page_size=1000&acknowledged=false:0
+[   97323ms] [ERROR] Error fetching critical alerts TypeError: Failed to fetch
+    at window.fetch (http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/fetcher.js?v=4426c6f7:66:10)
+    at sendRequest (http://localhost:5181/src/lib/gen/core/request.ts:145:15)
+    at http://localhost:5181/src/lib/gen/core/request.ts:261:26 @ http://localhost:5181/src/lib/components/sidebar/CriticalAlertModal.svelte?t=1771867959552:187
+[  112321ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/settings/critical_alerts?page=1&page_size=1000&acknowledged=false:0
+[  112321ms] [ERROR] Error fetching critical alerts TypeError: Failed to fetch
+    at window.fetch (http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/fetcher.js?v=4426c6f7:66:10)
+    at sendRequest (http://localhost:5181/src/lib/gen/core/request.ts:145:15)
+    at http://localhost:5181/src/lib/gen/core/request.ts:261:26 @ http://localhost:5181/src/lib/components/sidebar/CriticalAlertModal.svelte?t=1771867959552:187
+[  126992ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/w/testing/users/whoami:0
+[  127061ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/version:0
+[  127061ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/uptodate:0
+[  127062ms] [WARNING] Could not fetch latest version TypeError: Failed to fetch
+    at window.fetch (http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/fetcher.js?v=4426c6f7:66:10)
+    at sendRequest (http://localhost:5181/src/lib/gen/core/request.ts:145:15)
+    at http://localhost:5181/src/lib/gen/core/request.ts:261:26 @ http://localhost:5181/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=4426c6f7:3207
+[  132062ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ http://localhost:5181/api/w/testing/users/whoami:0
+[  666608ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  666609ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  666609ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5179/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=3d20f207:3207
+[  666717ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/stripe_subscription_details:0
+[  666717ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/preview_subscription_change/b:0
+[  666719ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  666756ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  666756ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/all/send_discord_thread_automatically_split_message:0
+[  666757ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/bd/send_emails_customer_db/h:0
+[  666787ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0
+[  666795ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5179/api/w/testing/scripts/get/p/f/billing/db/query_customer_service_db:0

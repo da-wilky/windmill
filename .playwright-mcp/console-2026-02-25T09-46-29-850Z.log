@@ -1,0 +1,263 @@
+[-2917464ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[-2917464ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1528077ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1528096ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1528801ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=2843ad71-1cba-444b-a453-0b064fd148fe:0
+[ 1528801ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=2843ad71-1cba-444b-a453-0b064fd148fe:0
+[ 1528977ms] [ERROR] [SqlTypeService] Failed to get TypeScript worker client: TypeScript not registered! @ http://localhost:5177/src/lib/components/sqlTypeService.ts:15
+[ 1529103ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1529103ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[ 1529137ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1529137ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1588511ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1600828ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1600835ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1607126ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1607135ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1607207ms] [ERROR] WebSocket is already in CLOSING or CLOSED state. @ http://localhost:5177/node_modules/.vite/deps/vscode-ws-jsonrpc.js?v=809edb72:3076
+[ 1618463ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 1618468ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 4451576ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 4451594ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 4451609ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 4451626ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[ 4451898ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33682635ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=2843ad71-1cba-444b-a453-0b064fd148fe:0
+[33682637ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5177/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5177&vscodeWebWorkerExtHostId=2843ad71-1cba-444b-a453-0b064fd148fe:0
+[33684641ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33684641ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:1600:24)
+    at async Module.start (http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:363:3) @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33685931ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/nodes/NodeWrapper.svelte?t=1772046471801:0
+[33685943ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/map/FlowModuleSchemaMap.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33685943ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/content/FlowEditorPanel.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33685943ms] [ERROR] [vite] Failed to reload /src/lib/components/graph/FlowGraphV2.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686482ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/map/FlowModuleSchemaMap.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686505ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/content/FlowModuleWrapper.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686507ms] [ERROR] [vite] Failed to reload /src/lib/components/FlowPreviewContent.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686531ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/content/FlowModuleComponent.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686531ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/content/FlowInput.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686574ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/content/FlowEditorPanel.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686860ms] [ERROR] [vite] Failed to reload /src/lib/components/FlowBuilder.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686861ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/content/FlowEditorDrawer.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686861ms] [ERROR] [vite] Failed to reload /src/routes/(root)/(logged)/flows/edit/[...path]/+page.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686910ms] [ERROR] [vite] Failed to reload /src/lib/components/graph/renderers/nodes/AssetsOverflowedNode.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686912ms] [ERROR] [vite] Failed to reload /src/lib/components/graph/FlowGraphV2.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686913ms] [ERROR] [vite] Failed to reload /src/lib/components/FlowStatusViewerInner.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686913ms] [ERROR] [vite] Failed to reload /src/lib/components/graph/renderers/nodes/NewAIToolNode.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33686913ms] [ERROR] [vite] Failed to reload /src/lib/components/flows/map/MapItem.svelte. This could be due to syntax errors or importing non-existent modules. (see errors above) @ http://localhost:5177/@vite/client:808
+[33690943ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/nodes/NodeWrapper.svelte?t=1772046471801:0
+[33690957ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33690957ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046471563 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33765409ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33765409ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33767423ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/FlowGraphV2.svelte?t=1772046555601:0
+[33767424ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33767425ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046555601 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33875520ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/FlowGraphV2.svelte?t=1772046664091:0
+[33875521ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33875521ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046664091 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33889521ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046678461:0
+[33889723ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/FlowGraphV2.svelte?t=1772046678461:0
+[33889723ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33889723ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046678461 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33952878ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046741847:0
+[33953174ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/FlowGraphV2.svelte?t=1772046741847:0
+[33953175ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33953175ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046741847 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33999472ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046788090:0
+[33999796ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/graphBuilder.svelte.ts?t=1772046788090:0
+[33999796ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[33999796ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046788090 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[33999873ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/nodes/ModuleNode.svelte?t=1772046788090:0
+[33999873ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/edges/BaseEdge.svelte?t=1772046549851:0
+[34022594ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046788090:0
+[34022716ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/graphBuilder.svelte.ts?t=1772046788090:0
+[34022717ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34022717ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046788090 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34022780ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/nodes/ModuleNode.svelte?t=1772046788090:0
+[34022782ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/edges/BaseEdge.svelte?t=1772046549851:0
+[34028577ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046817622:0
+[34028717ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/graphBuilder.svelte.ts?t=1772046788090:0
+[34028717ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34028717ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046817622 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34028781ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/edges/BaseEdge.svelte?t=1772046549851:0
+[34070789ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046859693:0
+[34070990ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/graphBuilder.svelte.ts?t=1772046788090:0
+[34070994ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34070994ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046859693 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34071063ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/edges/BaseEdge.svelte?t=1772046549851:0
+[34088196ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046877277:0
+[34088456ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/graph/renderers/edges/BaseEdge.svelte?t=1772046549851:0
+[34088457ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34088457ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046877277 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34110730ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046899092:0
+[34113374ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34113374ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/19.js?t=1772046899092 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34122212ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046910986:0
+[34122390ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/MapItem.svelte?t=1772046877277:0
+[34122393ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34122393ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/3.js?t=1772046910986 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34135475ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046924424:0
+[34137134ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34137135ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/19.js?t=1772046924424 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34143165ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046931526:0
+[34143905ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34143906ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/19.js?t=1772046931526 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34203825ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046931526:0
+[34213030ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046931526:0
+[34214108ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34214109ms] [ERROR] TypeError: Failed to fetch dynamically imported module: http://localhost:5177/.svelte-kit/generated/client/nodes/19.js?t=1772046931526 @ http://localhost:5177/@fs/Users/guilhem/Devel/windmill/wt-agent-4/frontend/.svelte-kit/generated/client/app.js:178
+[34249386ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/src/lib/components/flows/map/FlowModuleSchemaMap.svelte?t=1772046931526:0
+[34252868ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/flows/edit/u/admin/new_flow?nodraft=true:0
+[34252916ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5177/favicon.ico:0
+[34518143ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34518143ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34519663ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34519671ms] [WARNING] %c[svelte] ownership_invalid_binding
+%csrc/lib/components/InputTransformSchemaForm.svelte passed property `schema` to src/lib/components/InputTransformForm.svelte with `bind:`, but its parent component node_modules/svelte-splitpanes/dist/Pane.svelte did not declare `schema` as a binding. Consider creating a binding between node_modules/svelte-splitpanes/dist/Pane.svelte and src/lib/components/InputTransformSchemaForm.svelte (e.g. `bind:schema={...}` instead of `schema={...}`)
+https://svelte.dev/e/ownership_invalid_binding font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34519683ms] [WARNING] Splitpanes: Could not resize panes correctly due to their constraints. @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34519686ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34519695ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 12 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34519744ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34520061ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34520066ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 50 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34527031ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34527146ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 31 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[34527150ms] [WARNING] %c[svelte] state_snapshot_uncloneable
+%cThe following properties cannot be cloned with `$state.snapshot` — the return value contains the originals:
+
+- <value>[0].data.eventHandlers.deleteBranch
+- <value>[0].data.eventHandlers.insert
+- <value>[0].data.eventHandlers.select
+- <value>[0].data.eventHandlers.changeId
+- <value>[0].data.eventHandlers.delete
+- <value>[0].data.eventHandlers.newBranch
+- <value>[0].data.eventHandlers.move
+- ...and 50 more
+https://svelte.dev/e/state_snapshot_uncloneable font-weight: bold font-weight: normal @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[37106564ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207
+[37106564ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5177/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=809edb72:3207

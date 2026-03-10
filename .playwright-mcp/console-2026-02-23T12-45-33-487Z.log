@@ -1,0 +1,35 @@
+[ 1168618ms] [WARNING] using deprecated parameters for the initialization function; pass a single object instead @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1168630ms] Error: No model selected
+    at getCurrentModel (http://localhost:5180/src/lib/aiStore.ts?t=1771846966766:66:9)
+    at AIChatManager.changeMode (http://localhost:5180/src/lib/components/copilot/chat/AIChatManager.svelte.ts?t=1771846966766:438:25)
+    at http://localhost:5180/src/lib/components/ScriptEditor.svelte?t=1771850388618:1518:17
+    at untrack (http://localhost:5180/node_modules/.vite/deps/events-CUnDbqry.js?v=99cee229:3544:10)
+    at $effect (http://localhost:5180/node_modules/.vite/deps/shared-B0PvuMpz.js?v=99cee229:4095:19)
+    at update_reaction (http://localhost:5180/node_modules/.vite/deps/events-CUnDbqry.js?v=99cee229:3299:16)
+    at update_effect (http://localhost:5180/node_modules/.vite/deps/events-CUnDbqry.js?v=99cee229:3394:20)
+    at flush_queued_effects (http://localhost:5180/node_modules/.vite/deps/events-CUnDbqry.js?v=99cee229:2023:4)
+    at Batch.process (http://localhost:5180/node_modules/.vite/deps/events-CUnDbqry.js?v=99cee229:1748:4)
+    at flush_effects (http://localhost:5180/node_modules/.vite/deps/events-CUnDbqry.js?v=99cee229:1992:10)
+[ 1169056ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5180/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5180&vscodeWebWorkerExtHostId=276e1fbd-ab7c-4d20-b1eb-5e4f4502b33c:0
+[ 1169056ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5180/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5180&vscodeWebWorkerExtHostId=276e1fbd-ab7c-4d20-b1eb-5e4f4502b33c:0
+[ 1169179ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1169179ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:1600:24)
+    at async Module.start (http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:363:3) @ http://localhost:5180/@fs/Users/guilhem/Devel/windmill/wt-agent-7/frontend/.svelte-kit/generated/client/app.js:176
+[ 1169199ms] [WARNING] Could not create web worker(s). Falling back to loading web worker code in main thread, which might cause UI freezes. Please see https://github.com/microsoft/monaco-editor#faq @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1169199ms] [WARNING] Unimplemented worker editorWorkerService (workerMain.js) @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1174734ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://data.jsdelivr.com/v1/package/resolve/npm/@types/deno__shim-deno@latest:0
+[ 1174757ms] [ERROR] Failed to load resource: the server responded with a status of 400 (Bad Request) @ http://localhost:5180/api/w/admins/npm_proxy/resolve/%40types%2Fdeno__shim-deno?tag=latest:0
+[ 1228847ms] [WARNING] The Web Worker Extension Host did not start in 60s, that might be a problem. @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1319905ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:5180/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5180&vscodeWebWorkerExtHostId=276e1fbd-ab7c-4d20-b1eb-5e4f4502b33c:0
+[ 1319905ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ http://localhost:5180/node_modules/.vite/worker/webWorkerExtensionHostIframe.html?vscode-coi=3&parentOrigin=http%3A%2F%2Flocalhost%3A5180&vscodeWebWorkerExtHostId=276e1fbd-ab7c-4d20-b1eb-5e4f4502b33c:0
+[ 1320185ms] [WARNING] The next HMR update will cause the page to reload @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1320185ms] [ERROR] SvelteKitError: Not found: /node_modules/.vite/worker/webWorkerExtensionHostIframe.html
+    at navigate (http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:1600:24)
+    at async Module.start (http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:363:3) @ http://localhost:5180/@fs/Users/guilhem/Devel/windmill/wt-agent-7/frontend/.svelte-kit/generated/client/app.js:176
+[ 1320637ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5180/api/uptodate:0
+[ 1325181ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5180/api/uptodate:0
+[ 1325193ms] [WARNING] Could not fetch latest version ApiError: Internal Server Error
+    at catchErrorCodes (http://localhost:5180/src/lib/gen/core/request.ts?t=1771846966763:231:9)
+    at http://localhost:5180/src/lib/gen/core/request.ts?t=1771846966763:274:5 @ http://localhost:5180/node_modules/@sveltejs/kit/src/runtime/client/client.js?v=99cee229:3207
+[ 1325259ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:5180/api/uptodate:0
